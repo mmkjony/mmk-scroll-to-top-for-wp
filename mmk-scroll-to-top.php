@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:  MMK Scroll To Top
- * Plugin URI:   https://github.com/mmkjony/mmk-scroll-to-top-wp-plugin
+ * Plugin URI:   https://github.com/mmkjony/mmk-scroll-to-top-wp-plugin/
  * Description:  A super simple, highly customizable and light-weight plugin that adds a smooth Scroll back to top button to your wordpress site.
  * Version:      1.0.0
  * Author:       MMK Jony
