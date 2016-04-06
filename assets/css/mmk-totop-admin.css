@@ -1,0 +1,14 @@
+h2.settings-page-header
+{
+    padding-bottom: 10px !important;
+    border-bottom: 1px solid #ddd;
+    box-shadow: 0 1px #fff;
+}
+
+@media screen and (max-width: 782px)
+{
+    .mmk-totop-settings .form-table input.small-text
+    {
+        max-width: 75px;
+    }
+}
